@@ -1,32 +1,23 @@
 ## 👋 About Me
 
-- 🎓 **Education**  
+- 🎓 **Education**
   BcS in Computer Science @ Azerbaijan State Oil and Industry University (ASOIU)
 
-- 💼 **Interests**  
-  Cybersecurity · Python Scripting · Networking · Linux · Web Security · AI in Security
+- 💼 **Interests**
 
 - 🛠️ **Skills & Tools**
-  - Languages:
+  - Programming Languages: C/C++, Python
+  - Scripting Languages: Bash, Powershell, Batch
   - Tools:
   - Platforms:
   - Others:
 
-- 🚀 **Projects**  
-  - 🔍 Fragmented Malware Detection using Scapy & Snort  
-  - 🔐 Cyber Awareness Web App for Employee Training  
-  - 📦 Email Threat Analyzer Chrome Extension (VirusTotal API)
+- 🚀 **Projects**
 
-- 🧠 **Currently Learning**  
-  - Linux internals  
-  - Malware Analysis fundamentals  
-  - Web app pentesting  
-  - AI integration in Cyber Defense
+- 🧠 **Currently Learning**
 
-- 📫 **Contact Me**  
-  - Email: `yourname@example.com`  
-  - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-  - Portfolio/Blog: [yourwebsite.com](https://yourwebsite.com)
+- 🌐 **Socials**
+  - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/faganmirzayev-goat)
 
 ---
 
