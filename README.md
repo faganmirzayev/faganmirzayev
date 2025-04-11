@@ -17,7 +17,7 @@
 - 🧠 **Currently Learning**
 
 - 🌐 **Socials**
-  - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/faganmirzayev-goat)
+  - LinkedIn: [linkedin.com/in/100percentalegitlink](https://linkedin.com/in/faganmirzayev-goat)
 
 ---
 
