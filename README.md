@@ -1,16 +1,34 @@
-# 💫 About Me:
-<br>🎓 BcS in Information Security @ASOIU | 🛡️ Junior Cybersecurity Analyst | 🔍 Blue Team Specialist
-<br>
-<br>🔧 Skills & Tools
-<br>
-<br>🛠️ Core Competencies:
-<br>
-<br>🖥️ Hands-On Platforms:
-<br>
-<br>🌱 Current Focus
-<br>
-<br>🌟 Achievements
-<br>
+## 👋 About Me
+
+- 🎓 **Education**  
+  BcS in Computer Science @ Azerbaijan State Oil and Industry University (ASOIU)
+
+- 💼 **Interests**  
+  Cybersecurity · Python Scripting · Networking · Linux · Web Security · AI in Security
+
+- 🛠️ **Skills & Tools**  
+  - Languages: Python · Bash · JavaScript  
+  - Tools: Wireshark · Snort · Scapy · Nmap · Burp Suite  
+  - Platforms: Linux (Kali, Ubuntu) · Windows  
+  - Others: Git · Docker · REST APIs
+
+- 🚀 **Projects**  
+  - 🔍 Fragmented Malware Detection using Scapy & Snort  
+  - 🔐 Cyber Awareness Web App for Employee Training  
+  - 📦 Email Threat Analyzer Chrome Extension (VirusTotal API)
+
+- 🧠 **Currently Learning**  
+  - Linux internals  
+  - Malware Analysis fundamentals  
+  - Web app pentesting  
+  - AI integration in Cyber Defense
+
+- 📫 **Contact Me**  
+  - Email: `yourname@example.com`  
+  - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+  - Portfolio/Blog: [yourwebsite.com](https://yourwebsite.com)
+
+---
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faganmirzayev-goat)
