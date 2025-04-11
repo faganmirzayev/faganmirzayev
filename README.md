@@ -1,31 +1,18 @@
 # 💫 About Me:
-<br>🎓 Information Security Student | 🛡️ Junior Cybersecurity Analyst | 🔍 Blue Team Specialist
-<br>
-<br>
-<br>
-<br>
-<br>
+<br>🎓 BcS in Information Security @ASOIU | 🛡️ Junior Cybersecurity Analyst | 🔍 Blue Team Specialist
 <br>
 <br>🔧 Skills & Tools
 <br>
 <br>🛠️ Core Competencies:
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>🖥️ Hands-On Platforms:
-<br>
-<br>
 <br>
 <br>🌱 Current Focus
 <br>
 <br>🌟 Achievements
 <br>
-<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faganmirzayev-goat)
 
 # 💻 Tech Stack:
